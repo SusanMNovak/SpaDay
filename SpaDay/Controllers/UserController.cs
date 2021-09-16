@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SpaDay.Controllers
 {
-    public class UserController1 : Controller
+    public class UserController : Controller
     {
         public IActionResult Index()
         {
